@@ -1,0 +1,12 @@
+{
+  "name": "health-tricks-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A simple health tricks landing page",
+  "scripts": {
+    "start": "npx http-server -p 3000"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
